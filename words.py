@@ -1,5 +1,4 @@
 words = [
-    'wares',
     'soup',
     'mount',
     'extend',
