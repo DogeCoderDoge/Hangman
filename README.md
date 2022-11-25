@@ -1,1 +1,1 @@
-Hangman game, not very good, but it works.
+Hangman without the actual hanging man, aka just a word guessing simulator
